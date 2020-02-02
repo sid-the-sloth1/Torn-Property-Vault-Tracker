@@ -1,4 +1,4 @@
-# Torn-Property-Vault-Tracker
+# M.A.Y.A (Manage Your Assets)
 Contains userscript and a Spreadsheet to catch vault transactions
  
 
