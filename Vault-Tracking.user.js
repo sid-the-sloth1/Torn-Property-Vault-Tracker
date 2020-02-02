@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Vault Transaction Tracker
-// @namespace    
-// @version      1.0
+// @name         M.A.Y.A
+// @namespace    hardy.maya
+// @version      1.1
 // @description  I think the name is descriptive enough
-// @author       Sid
+// @author       Hardy[2131687]
 // @match        https://www.torn.com/properties.php*
 // @grant        GM_getValue
 // @grant        GM_setValue
