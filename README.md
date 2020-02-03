@@ -105,3 +105,5 @@ Once after being set up like this it will automatically record your transaction 
 
 If you have any doubts or questions don't hesitate to drop me a [mail.](https://www.torn.com/messages.php#/p=compose&XID=2131687)
 
+
+[![](https://www.torn.com/signature.php?id=5&user=2131687&v=1528808940574)](https://www.torn.com/profiles.php?XID=2131687#/)
