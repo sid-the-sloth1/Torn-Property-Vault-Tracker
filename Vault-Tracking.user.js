@@ -2,7 +2,7 @@
 // @name         M.A.Y.A
 // @namespace    hardy.maya
 // @version      1.1
-// @description  I think the name is descriptive enough
+// @description  Helps you and your spouse to track the Vault Transactions
 // @author       Hardy[2131687]
 // @match        https://www.torn.com/properties.php*
 // @grant        GM_getValue
